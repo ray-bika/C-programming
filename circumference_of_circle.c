@@ -1,6 +1,7 @@
+//program to find the circumference of a circle 
 #include <stdio.h>
 #include <conio.h>
-#define PI 3.1415
+#define PI 3.1415 
 int main (){
     int a,s;
     printf("enter a value");
